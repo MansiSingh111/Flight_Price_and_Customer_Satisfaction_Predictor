@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Mansi/.vscode/Flight%20%26%20Customer%20Prediction/mlruns/255474105921985607/models/m-bfa07bfd9d7f444897016ca85c7f2ea6/artifacts
+creation_timestamp: 1756423273951
+experiment_id: '255474105921985607'
+last_updated_timestamp: 1756423278648
+model_id: m-bfa07bfd9d7f444897016ca85c7f2ea6
+model_type: null
+name: LogisticRegression
+source_run_id: 63a19b9785b34e46950a63625f4113e9
+status: 2
+status_message: null

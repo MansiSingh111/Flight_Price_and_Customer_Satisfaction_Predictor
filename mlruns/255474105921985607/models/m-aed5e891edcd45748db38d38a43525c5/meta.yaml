@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Mansi/.vscode/Flight%20%26%20Customer%20Prediction/mlruns/255474105921985607/models/m-aed5e891edcd45748db38d38a43525c5/artifacts
+creation_timestamp: 1756423909280
+experiment_id: '255474105921985607'
+last_updated_timestamp: 1756423913072
+model_id: m-aed5e891edcd45748db38d38a43525c5
+model_type: null
+name: model
+source_run_id: b3ada1b0909148efa51588fe6632d698
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/613265e5b5e147bbb84faa51c50ff39b/artifacts
+end_time: 1756300852098
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 613265e5b5e147bbb84faa51c50ff39b
+run_name: rare-doe-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756300848772
+status: 3
+tags: []
+user_id: Mansi

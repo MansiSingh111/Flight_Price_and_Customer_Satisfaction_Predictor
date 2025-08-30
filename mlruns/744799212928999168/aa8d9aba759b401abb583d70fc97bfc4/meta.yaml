@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/aa8d9aba759b401abb583d70fc97bfc4/artifacts
+end_time: 1756497052140
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: aa8d9aba759b401abb583d70fc97bfc4
+run_name: XGB Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756497048291
+status: 3
+tags: []
+user_id: Mansi

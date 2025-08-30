@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/840c7cadc6e44ef78b8fdb95c695dcbf/artifacts
+end_time: 1756301150170
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 840c7cadc6e44ef78b8fdb95c695dcbf
+run_name: sincere-tern-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756301147046
+status: 3
+tags: []
+user_id: Mansi

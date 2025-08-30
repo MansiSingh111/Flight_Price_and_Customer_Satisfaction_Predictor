@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/3fd0f09b7926430ba28a4c21a8d0e4a8/artifacts
+end_time: 1756300506760
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 3fd0f09b7926430ba28a4c21a8d0e4a8
+run_name: adventurous-boar-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756300503464
+status: 3
+tags: []
+user_id: Mansi

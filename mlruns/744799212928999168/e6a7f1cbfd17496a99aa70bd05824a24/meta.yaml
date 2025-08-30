@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/e6a7f1cbfd17496a99aa70bd05824a24/artifacts
+end_time: 1756307051374
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: e6a7f1cbfd17496a99aa70bd05824a24
+run_name: bittersweet-swan-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756307047814
+status: 3
+tags: []
+user_id: Mansi

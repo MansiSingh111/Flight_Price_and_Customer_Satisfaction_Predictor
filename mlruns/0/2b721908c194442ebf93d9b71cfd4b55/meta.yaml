@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2b721908c194442ebf93d9b71cfd4b55/artifacts
+end_time: 1755850458230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b721908c194442ebf93d9b71cfd4b55
+run_name: welcoming-crab-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755850449652
+status: 4
+tags: []
+user_id: Mansi

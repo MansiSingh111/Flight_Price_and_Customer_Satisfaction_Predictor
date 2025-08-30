@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/b7fd6125260d47aa9801ef11aae5725b/artifacts
+end_time: 1756303486709
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: b7fd6125260d47aa9801ef11aae5725b
+run_name: unruly-auk-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756303482988
+status: 3
+tags: []
+user_id: Mansi

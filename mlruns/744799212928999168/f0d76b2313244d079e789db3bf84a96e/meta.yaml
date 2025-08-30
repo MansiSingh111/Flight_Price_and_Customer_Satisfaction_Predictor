@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/f0d76b2313244d079e789db3bf84a96e/artifacts
+end_time: 1756389718392
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: f0d76b2313244d079e789db3bf84a96e
+run_name: exultant-pug-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756389713984
+status: 3
+tags: []
+user_id: Mansi

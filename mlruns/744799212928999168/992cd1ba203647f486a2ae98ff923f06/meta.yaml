@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/992cd1ba203647f486a2ae98ff923f06/artifacts
+end_time: 1756303434297
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 992cd1ba203647f486a2ae98ff923f06
+run_name: luminous-hen-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756303428636
+status: 3
+tags: []
+user_id: Mansi

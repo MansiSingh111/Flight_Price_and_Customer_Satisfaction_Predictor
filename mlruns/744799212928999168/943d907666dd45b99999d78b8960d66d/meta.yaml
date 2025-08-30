@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/943d907666dd45b99999d78b8960d66d/artifacts
+end_time: 1756300580537
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 943d907666dd45b99999d78b8960d66d
+run_name: traveling-boar-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756300577180
+status: 3
+tags: []
+user_id: Mansi

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/18d35daee96c456f9659d1fc4204d66e/artifacts
+end_time: 1756179603490
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 18d35daee96c456f9659d1fc4204d66e
+run_name: charming-loon-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756179592064
+status: 3
+tags: []
+user_id: Mansi

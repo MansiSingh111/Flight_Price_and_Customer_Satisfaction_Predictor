@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9afd007a70ed4d55a242d2b1d1463aa2/artifacts
+end_time: 1755850741427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9afd007a70ed4d55a242d2b1d1463aa2
+run_name: thundering-rook-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755850733915
+status: 3
+tags: []
+user_id: Mansi

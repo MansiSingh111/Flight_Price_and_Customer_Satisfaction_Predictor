@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/6ce7d613365749f5b5f46db3b166ff52/artifacts
+end_time: 1756497048263
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 6ce7d613365749f5b5f46db3b166ff52
+run_name: Random Forest Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756497030209
+status: 3
+tags: []
+user_id: Mansi

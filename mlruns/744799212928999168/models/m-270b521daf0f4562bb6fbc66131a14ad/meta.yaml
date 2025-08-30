@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/744799212928999168/models/m-270b521daf0f4562bb6fbc66131a14ad/artifacts
+creation_timestamp: 1756303445818
+experiment_id: '744799212928999168'
+last_updated_timestamp: 1756303450875
+model_id: m-270b521daf0f4562bb6fbc66131a14ad
+model_type: ''
+name: RandomForestRegressor
+source_run_id: ''
+status: 2
+status_message: null

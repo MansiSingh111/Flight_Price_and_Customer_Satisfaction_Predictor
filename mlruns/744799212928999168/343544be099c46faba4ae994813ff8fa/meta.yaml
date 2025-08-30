@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/343544be099c46faba4ae994813ff8fa/artifacts
+end_time: 1756389691774
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 343544be099c46faba4ae994813ff8fa
+run_name: lyrical-asp-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756389680618
+status: 3
+tags: []
+user_id: Mansi

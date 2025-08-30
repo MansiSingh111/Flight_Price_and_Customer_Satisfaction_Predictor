@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/6736e6ce14ca427eb5812bb781c09df0/artifacts
+end_time: 1756179677282
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 6736e6ce14ca427eb5812bb781c09df0
+run_name: nervous-fowl-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756179671624
+status: 3
+tags: []
+user_id: Mansi

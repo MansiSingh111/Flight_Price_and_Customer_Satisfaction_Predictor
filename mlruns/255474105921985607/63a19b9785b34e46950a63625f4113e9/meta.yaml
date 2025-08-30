@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Mansi/.vscode/Flight%20%26%20Customer%20Prediction/mlruns/255474105921985607/63a19b9785b34e46950a63625f4113e9/artifacts
+end_time: 1756423278655
+entry_point_name: ''
+experiment_id: '255474105921985607'
+lifecycle_stage: active
+run_id: 63a19b9785b34e46950a63625f4113e9
+run_name: placid-horse-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756423273880
+status: 3
+tags: []
+user_id: Mansi
