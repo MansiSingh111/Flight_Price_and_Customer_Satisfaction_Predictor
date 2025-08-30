@@ -1,4 +1,4 @@
-# Flight & Customer Prediction
+# Flight Price & Customer Satisfaction Prediction
 
 A machine learning project for predicting flight prices and customer satisfaction using Python, scikit-learn, XGBoost, and Streamlit.
 
