@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/744799212928999168/0cc4974b97004a85be176d7bcb4ac559/artifacts
+end_time: 1756899727308
+entry_point_name: ''
+experiment_id: '744799212928999168'
+lifecycle_stage: active
+run_id: 0cc4974b97004a85be176d7bcb4ac559
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756899720708
+status: 3
+tags: []
+user_id: Mansi

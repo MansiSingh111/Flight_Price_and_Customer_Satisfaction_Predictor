@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/Mansi/.vscode/Flight%20%26%20Customer%20Prediction/mlruns/255474105921985607/models/m-7d7688232ec6411bb7e5fb54b4d76383/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.1
+model_id: m-7d7688232ec6411bb7e5fb54b4d76383
+model_size_bytes: 139492
+model_uuid: m-7d7688232ec6411bb7e5fb54b4d76383
+prompts: null
+run_id: 804a65387a3e4731be3a0f2aaf58fa61
+utc_time_created: '2025-09-03 12:02:30.319419'

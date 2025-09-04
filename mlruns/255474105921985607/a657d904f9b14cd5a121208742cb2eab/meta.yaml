@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Mansi/.vscode/Flight%20%26%20Customer%20Prediction/mlruns/255474105921985607/a657d904f9b14cd5a121208742cb2eab/artifacts
+end_time: 1756900824768
+entry_point_name: ''
+experiment_id: '255474105921985607'
+lifecycle_stage: active
+run_id: a657d904f9b14cd5a121208742cb2eab
+run_name: adorable-stork-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756900820531
+status: 3
+tags: []
+user_id: Mansi

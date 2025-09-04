@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Mansi/.vscode/Flight%20%26%20Customer%20Prediction/mlruns/255474105921985607/804a65387a3e4731be3a0f2aaf58fa61/artifacts
+end_time: 1756900953412
+entry_point_name: ''
+experiment_id: '255474105921985607'
+lifecycle_stage: active
+run_id: 804a65387a3e4731be3a0f2aaf58fa61
+run_name: gradient_boosting_customer_satisfaction
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756900950219
+status: 3
+tags: []
+user_id: Mansi
